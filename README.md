@@ -112,7 +112,7 @@ SR-Reg dataset
 
 # 🗳 Data Description
 
-We evaluate our model on five benchmark datasets with rigorous data partitioning protocols to ensure reproducibility and fair comparison:
+We evaluate our model on four benchmark datasets with rigorous data partitioning protocols to ensure reproducibility and fair comparison:
 
 ### Dataset Name: LPBA40
 
