@@ -64,7 +64,7 @@ python Infer_OASIS.py
 
 - **Polarity Correlation Attention (PoLaCA) :** PoLaCA explicitly decomposes correlation-aware into positive and negative correlations, restoring inhibitory cues that suppress mismatched regions.
 - **Adaptive Learning System (ALS) :** ALS evaluates the correlation contribution of each channel and sharpens the attention distribution, concentrating it on registration-critical regions.
-- **State-of-the-Art Performance:** Validated on 5 datasets with superior accuracy and robustness. 
+- **State-of-the-Art Performance:** Validated on 4 datasets with superior accuracy and robustness. 
 
 
 
