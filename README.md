@@ -235,6 +235,17 @@ Datasets
 
 ![supp](./Figures/fig15.png)
 
+# 📕 Citation
+```bibtex
+@inproceedings{zhang2026plcreg,
+  title={PLCReg: Correlation-Aware Polar-Linear Attention for Guiding Medical Image Registration},
+  author={Zhang, Yedi and Huang, Wenhui and Zheng, Yuanjie},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={5535--5544},
+  year={2026}
+}
+```
+
 # 🔑 Acknowledgements
 
 We sincerely acknowledge the [TransMorph](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration), [TransMatch](https://github.com/tzayuan/TransMatch_TMI), [CGNet](https://github.com/scu1996cy/CGNet) and [SACBNet](https://github.com/x-xc/SACB_Net) projects.
